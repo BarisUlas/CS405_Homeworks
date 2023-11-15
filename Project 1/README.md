@@ -1,1 +1,1 @@
-![](https://github.com/BarisUlas/CS405_Homeworks/blob/main/Project%201/Animation.gif)
+![](https://github.com/BarisUlas/CS405_Homeworks/Project%201/Animation.gif)
